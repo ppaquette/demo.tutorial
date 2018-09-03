@@ -1,4 +1,4 @@
 gym
 mujoco-py>=1.50
-tensorflow-gpu
+tensorflow
 imageio
